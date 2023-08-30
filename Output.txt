@@ -1,0 +1,11 @@
+Number of people's BMI do you want to calculate? 
+3
+Enter the Mass of the person 1 in kg: 68 
+Enter the Height of the person 1 in meter: 1.56 
+Enter the Mass of the person 2 in kg: 73
+Enter the Height of the person 2 in meter: 1.72 
+Enter the Mass of the person 3 in kg: 89
+Enter the Height of the person 3 in meter: 1.8 
+Person 1's BMI is 27.942146
+Person 2's BMI is 24.675499 
+Person 3's BMI is 27.469137
